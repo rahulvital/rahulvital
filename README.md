@@ -1,6 +1,4 @@
-To whoever is reading this,
-
-My name is Rahul Vital, and I started my journey into coding 
+Hi, my name is Rahul Vital, and I started my journey into coding 
 very recently, after completing a MSc in Cancer Research. I am 
 looking to eventually put the skills I learn while coding to help 
 develop a project that incorporates both coding and cancer.
