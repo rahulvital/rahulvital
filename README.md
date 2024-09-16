@@ -1,4 +1,4 @@
-# Hi, my name is Rahul Vital :wave:
+# Hi there, I'm Rahul Vital :wave:
 
 I recently transitioned into the world of coding after completing an MSc in Cancer Research. My goal is to merge my coding skills with my background in cancer research to create impactful, innovative solutions in the healthcare and biotechnology sectors.
 
