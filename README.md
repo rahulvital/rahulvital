@@ -14,4 +14,4 @@ I recently transitioned into the world of coding after completing an MSc in Canc
 
 ## :mailbox: How to reach me
 - LinkedIn: [Rahul Vital](https://www.linkedin.com/in/rahul-v-16a61694/)
-- Email: [rahulalexander123@gmail.com](rahulalexander123@gmail.com)
+- Email: rahulalexander123@gmail.com
