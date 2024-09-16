@@ -1,28 +1,17 @@
-Hi, my name is Rahul Vital, and I started my journey into coding 
-very recently, after completing a MSc in Cancer Research. I am 
-looking to eventually put the skills I learn while coding to help 
-develop a project that incorporates both coding and cancer.
+# Hi, my name is Rahul Vital 
 
-I've gained many valuable skills during my time researching,
-such as working with a variety of data types, working with several data
-analysis softwares such as FlowJo, R, and Excel.
+I recently transitioned into the world of coding after completing an MSc in Cancer Research. My goal is to merge my coding skills with my background in cancer research to create impactful, innovative solutions in the healthcare and biotechnology sectors.
 
-I have completed a 13 week JavaScript course at Northcoders, 
-learning the basics of JS, developing a solo project web application and developing 
-a mobile application in a group project.
+## Skills & Technologies
+- **Languages:** JavaScript
+- **Frameworks:** React, React Native, Node.js, Express
+- **Databases:** PostgreSQL, Firebase
+- **Tools:** FlowJo, Excel
 
-Solo Project:
-NC News - 
-This project is a web application called "NC News", a website created to allow users 
-to read articles, post and delete comments and vote on articles. 
-It was created with a React front-end and a Node.js/express back-end with a PostgresSQL 
-as a database.
+## Featured Projects
+- [**NC News**](https://github.com/rahulvital/nc-news): A full-stack web application allowing users to read articles, post and delete comments, and vote on articles. Built with a React front-end, Node.js/Express back-end, and PostgreSQL database.
+- [**RecipeBox**](https://github.com/bitbybit-nc/RecipeBox): A mobile application that enables users to record, view, post, and delete recipes. Created with a React Native front-end and Firebase back-end.
 
-
-Group Projects:
-RecipeBox - 
-This project is a mobile application called "RecipeBox", an app created to allow users 
-to record and see recipes from various online sources, post and delete recipes, and 
-collections and vote on different recipes. 
-It was created with a React Native front-end 
-and a firebase back-end and database.
+## How to reach me
+- LinkedIn: [Rahul Vital](https://www.linkedin.com/in/rahul-v-16a61694/)
+- Email: [rahulalexander123@gmail.com](rahulalexander123@gmail.com)
